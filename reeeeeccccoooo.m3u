@@ -1,0 +1,234 @@
+#EXTM3U
+#EXTINF:-1,TRT 1
+https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+
+#EXTINF:-1,TRT 2 
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+
+#EXTINF:-1,TRT HABER 
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/114
+
+#EXTINF:-1,SHOW TV 
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1,TV8 
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1,TEVE2 
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+
+#EXTINF:-1,KANAL D  
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
+#EXTINF:-1,BEYAZ TV 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:-1,KANAL 7 
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:-1,HABER TÜRK 
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:-1,A HABER 
+http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
+
+#EXTINF:-1,TV 100 
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/73
+
+#EXTINF:-1,NTV 
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/100
+
+#EXTINF:-1,HALK TV 
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+
+#EXTINF:-1,ÜLKE TV 
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/84
+
+#EXTINF:-1,KANAL AVRUPA 
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/80
+
+#EXTINF:-1,WOMAN TV 
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+
+#EXTINF:-1,TV 90 
+https://tv90-live.cdnnew.com/tv90/tv90.m3u8
+
+#EXTINF:-1,MUGLA TÜRK 
+https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
+
+#EXTINF:-1,AGRO TV 
+https://yayin30.haber100.com/live/agrotv/chunklist.m3u8
+
+#EXTINF:-1,TJK TV
+http://tjktv-live.tjk.org/tjktv_1080p.m3u8
+
+#EXTINF:-1,KANAL 14 
+https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8
+
+#EXTINF:-1,KANAL 16 
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
+
+#EXTINF:-1,KANAL 23 
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,KANAL Z 
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
+
+#EXTINF:-1,TRT 1 
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,TRT 2 
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,TRT HABER 
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,TRT BELGESEL 
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,TRT COCUK 
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,TRT DİYANET ÇOCUK
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,TRT TÜRK 
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,SHOW TV 
+http://canli.haber365.com.tr/tr/showtv/index.m3u8
+
+#EXTINF:-1,STAR TV 
+https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,KANAL D 
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+
+#EXTINF:-1,HABER TÜRK 
+http://canli.haber365.com.tr/tr/haberturk/index.m3u8
+
+#EXTINF:-1,CNN TÜRK 
+https://cnnturk.blutv.com/blutv_cnnturk_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,FOX TV 
+https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,BEYAZ TV 
+https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,KANAL 7
+https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,ÜLKE TV
+https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,HABER GLOBAL
+https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,TV 100
+https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,KRT TV
+https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,TELE 1
+https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,ULUSAL KANAL
+https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
+
+#EXTINF:-1,FLASH TV
+https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,TGRT HABER
+https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,TV8 
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8 
+
+#EXTINF:-1,24 TV 
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:-1,TV4 
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:-1,AKİT TV 
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+
+#EXTINF:-1,360 TV 
+https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,TV 100 
+http://135.125.234.9:8081/tv100/index.m3u8
+
+#EXTINF:-1,TV NET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+#EXTINF:-1,TLC 
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8 
+
+#EXTINF:-1,DMAX 
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+
+#EXTINF:-1,TÜRK HABER 
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8 
+
+#EXTINF:-1,NTV 
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+
+#EXTINF:-1,BLOOMBRRG TV 
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
+#EXTINF:-1,BBN TÜRK
+https://mn-nl.mncdn.com/blutv_bbnturk/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,BENGÜ TÜRK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/83
+
+#EXTINF:-1,HALK TV
+http://135.125.234.9:8081/halktv/index.m3u8
+
+#EXTINF:-1,KRT TV
+http://135.125.234.9:8081/krttv/index.m3u8
+
+#EXTINF:-1,TELE 1
+http://135.125.234.9:8081/tele1/index.m3u8
+
+#EXTINF:-1,SÖZCÜ TV
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+
+#EXTINF:-1,YABAN TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/146
+
+#EXTINF:-1,SPORTS TV 
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1,FB TV 
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/34
+
+#EXTINF:-1,GS TV 
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/35
+
+#EXTINF:-1,KRAL POP TV 
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+
+#EXTINF:-1,POWER TÜRK 
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8   
+
+#EXTINF:-1,NR1 TÜRK 
+https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,DREAM TÜRK 
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1,SLOW KARADENİZ TV 
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+
+#EXTINF:-1,RİZE TÜRK 
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+
+#EXTINF:-1,AFYON TÜRK 
+https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
+
+#EXTINF:-1,YANSIMA TV
+https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
