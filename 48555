@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-name="matthuisman.nz,xmltv.net,nzxmltv.com">
+  <channel id="mjh-discovery-fast4">
+    <display-name>Warner Bros TV True Crime</display-name>
+    <icon src="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521491288/20231121T121011_truecrimelogo.png"/>
+  </channel>
+  <channel id="mjh-discovery-fast5">
+    <display-name>Warner Bros TV Paranormal</display-name>
+    <icon src="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521701602/20231121T120842_paranormallogo.png"/>
+  </channel>
+  <channel id="mjh-discovery-fast3">
+    <display-name>Warner Bros TV Reality</display-name>
+    <icon src="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521401696/20231121T120519_realitylogo.png"/>
+  </channel>
+  <channel id="mjh-discovery-fast6">
+    <display-name>Warner Bros TV House Hunters</display-name>
+    <icon src="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521489922/20231121T120747_househunterslogo.png"/>
+  </channel>
+  <channel id="mjh-discovery-fast9">
+    <display-name>Warner Bros TV 90 Day Fiance</display-name>
+    <icon src="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521418830/20231121T120436_90dayfiancelogo.png"/>
+  </channel>
+  <channel id="mjh-tvnz-1">
+    <display-name>TVNZ 1</display-name>
+    <lcn>1</lcn>
+    <icon src="https://i.mjh.nz/.images/tvnz-1.png"/>
+  </channel>
+  <channel id="mjh-tvnz-2">
+    <display-name>TVNZ 2</display-name>
+    <lcn>2</lcn>
+    <icon src="https://i.mjh.nz/.images/tvnz-2.png"/>
+  </channel>
+  <channel id="mjh-three">
+    <display-name>Three</display-name>
+    <lcn>3</lcn>
+    <icon src="https://i.mjh.nz/.images/three.png"/>
+  </channel>
+  <channel id="mjh-bravo">
+    <display-name>Bravo</display-name>
+    <lcn>4</lcn>
+    <icon src="https://i.mjh.nz/.images/bravo.png"/>
+  </channel>
+  <channel id="mjh-maori-tv">
+    <display-name>Whakaata Māori</display-name>
+    <lcn>5</lcn>
+    <icon src="https://i.mjh.nz/.images/maori-tv.png"/>
+  </channel>
+  <channel id="mjh-tvnz-duke">
+    <display-name>DUKE</display-name>
+    <lcn>6</lcn>
+    <icon src="https://i.mjh.nz/.images/tvnz-duke.png"/>
+  </channel>
+  <channel id="mjh-tvnz-2-plus1">
+    <display-name>TVNZ 2 plus 1</display-name>
+    <lcn>7</lcn>
+    <icon src="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ2plus11280x1280.png?trim.threshold=1&amp;w=400"/>
+  </channel>
+  <channel id="mjh-eden">
+    <display-name>eden</display-name>
+    <lcn>8</lcn>
+    <icon src="https://i.mjh.nz/.images/eden.png"/>
+  </channel>
+  <channel id="mjh-bravo-plus1">
+    <display-name>Bravo PLUS 1</display-name>
+    <lcn>9</lcn>
+    <icon src="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_FVsite_BravoPlus1_1280x1280.png?trim.threshold=1&amp;w=400"/>
+  </channel>
+  <channel id="mjh-tvnz-1-plus1">
+    <display-name>TVNZ 1 plus 1</display-name>
+    <lcn>11</lcn>
+    <icon src="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ1plus11280x1280.png?trim.threshold=1&amp;w=400"/>
+  </channel>
+  <channel id="mjh-tvnz-duke-plus1">
+    <display-name>TVNZ DUKE+1</display-name>
+    <lcn>12</lcn>
+    <icon src="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ-DUKE-plus-1-1280x1280.png?trim.threshold=1&amp;w=400"/>
+  </channel>
+  <channel id="mjh-three-plus1">
+    <display-name>ThreePlus1</display-name>
+    <lcn>13</lcn>
+    <icon src="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_ThreePlus1_1280x1280.png?trim.threshold=1&amp;w=400"/>
+  </channel>
+  <channel id="mjh-rush-nz">
+    <display-name>RUSH</display-name>
+    <lcn>14</lcn>
+    <icon src="https://i.mjh.nz/.images/rush-nz.png"/>
+  </channel>
+  <channel id="mjh-te-reo">
+    <display-name>Te Reo</display-name>
+    <lcn>10</lcn>
+    <icon src="https://i.mjh.nz/.images/te-reo.png"/>
+  </channel>
+  <channel id="mjh-prime">
+    <display-name>Sky Open</display-name>
+    <lcn>15</lcn>
+    <icon src="https://i.mjh.nz/.images/sky-open.png"/>
+  </channel>
+  <channel id="mjh-eden-plus1">
+    <display-name>eden+1</display-name>
+    <lcn>18</lcn>
+    <icon src="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Freeviewwebsiteedenplus11280x.png?trim.threshold=1&amp;w=400"/>
+  </channel>
+  <channel id="mjh-hgtv">
+    <display-name>HGTV</display-name>
+    <lcn>19</lcn>
+    <icon src="https://i.mjh.nz/.images/hgtv.png"/>
+  </channel>
+  <channel id="mjh-al-jazeera">
+    <display-name>Al Jazeera</display-name>
+    <lcn>20</lcn>
+    <icon src="https://i.mjh.nz/.images/al-jazeera.png"/>
+  </channel>
+  <channel id="mjh-prime-plus1">
+    <display-name>Sky Open+1</display-name>
+    <lcn>21</lcn>
+    <icon src="https://i.mjh.nz/.images/sky-open.png"/>
+  </channel>
+  <channel id="mjh-shine-tv">
+    <display-name>Shine TV</display-name>
+    <lcn>25</lcn>
+    <icon src="https://i.mjh.nz/.images/shine-tv.png"/>
+  </channel>
+  <channel id="mjh-firstlight">
+    <display-name>Firstlight</display-name>
+    <lcn>26</lcn>
+    <icon src="https://i.mjh.nz/.images/firstlight.png"/>
+  </channel>
+  <channel id="mjh-hope-channel">
+    <display-name>Hope Channel</display-name>
+    <lcn>27</lcn>
+    <icon src="https://i.mjh.nz/.images/hope-channel.png"/>
+  </channel>
+  <channel id="mjh-chinese-tv28">
+    <display-name>Chinese TV28</display-name>
+    <lcn>28</lcn>
+    <icon src="https://i.mjh.nz/.images/chinese-tv28.png"/>
+  </channel>
+  <channel id="mjh-chinese-tv29">
+    <display-name>Chinese TV29</display-name>
+    <lcn>29</lcn>
+    <icon src="https://i.mjh.nz/.images/chinese-tv29.png"/>
+  </channel>
+  <channel id="mjh-parliament-tv">
+    <display-name>Parliament TV</display-name>
+    <lcn>31</lcn>
+    <icon src="https://i.mjh.nz/.images/parliament-tv.png"/>
+  </channel>
+  <channel id="mjh-apna-television">
+    <display-name>APNA Television</display-name>
+    <lcn>36</lcn>
+    <icon src="https://i.mjh.nz/.images/apna-television.png"/>
+  </channel>
+  <channel id="mjh-panda-tv">
+    <display-name>Panda TV</display-name>
+    <lcn>37</lcn>
+    <icon src="https://i.mjh.nz/.images/panda-tv.png"/>
+  </channel>
+  <channel id="mjh-wairarapa-tv">
+    <display-name>Wairarapa TV</display-name>
+    <lcn>41</lcn>
+    <icon src="https://i.mjh.nz/.images/wairarapa-tv.png"/>
+  </channel>
+  <channel id="mjh-trackside-1">
+    <display-name>TAB Trackside 1</display-name>
+    <lcn>62</lcn>
+    <icon src="https://i.mjh.nz/.images/trackside-1.png"/>
+  </channel>
+  <channel id="mjh-trackside-2">
+    <display-name>TAB Trackside 2</display-name>
+    <lcn>63</lcn>
+    <icon src="https://i.mjh.nz/.images/trackside-2.png"/>
+  </channel>
+  <channel id="mjh-ch200">
+    <display-name>CH200</display-name>
+    <lcn>200</lcn>
+    <icon src="https://i.mjh.nz/.images/ch200.png"/>
+  </channel>
+  <channel id="mjh-juice-tv">
+    <display-name>JuiceTV</display-name>
+    <icon src="https://i.mjh.nz/.images/juice-tv.png"/>
+  </channel>
+  <channel id="mjh-juice-x">
+    <display-name>JuiceX</display-name>
+    <icon src="https://i.mjh.nz/.images/juice-x.png"/>
+  </channel>
+  <channel id="mjh-tvsn-shopping">
+    <display-name>TVSN Shopping</display-name>
+    <icon src="https://i.mjh.nz/.images/tvsn-shopping.png"/>
+  </channel>
+  <channel id="mjh-seven-syd">
+    <display-name>Seven</display-name>
+    <lcn>7</lcn>
+    <icon src="https://i.mjh.nz/.images/seven-syd.png"/>
+  </channel>
+  <channel id="mjh-7two-syd">
+    <display-name>7two</display-name>
+    <lcn>72</lcn>
+    <icon src="https://i.mjh.nz/.images/7two-syd.png"/>
+  </channel>
+  <channel id="mjh-7mate-syd">
+    <display-name>7mate</display-name>
+    <lcn>74</lcn>
+    <icon src="https://i.mjh.nz/.images/7mate-syd.png"/>
+  </channel>
+  <channel id="mjh-7flix-syd">
+    <display-name>7flix</display-name>
+    <lcn>76</lcn>
+    <icon src="https://i.mjh.nz/.images/7flix-syd.png"/>
+  </channel>
+  <channel id="mjh-channel-9-nsw">
+    <display-name>Channel 9</display-name>
+    <lcn>9</lcn>
+    <icon src="https://imageresizer.static9.net.au/HtBnd8GsZ-0m6XU8owz7-XYATt4=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png"/>
+  </channel>
+  <channel id="mjh-gem-nsw">
+    <display-name>9Gem</display-name>
+    <lcn>92</lcn>
+    <icon src="https://imageresizer.static9.net.au/R-kis1RnwsPGXmfbHFBfe36kU68=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F13%2F9Gem_Colour_RGB.png"/>
+  </channel>
+  <channel id="mjh-go-nsw">
+    <display-name>9Go!</display-name>
+    <lcn>93</lcn>
+    <icon src="https://imageresizer.static9.net.au/22I0ZFSBVvijX3R1EJxoC5wKtfc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png"/>
+  </channel>
+  <channel id="mjh-life-nsw">
+    <display-name>9Life</display-name>
+    <lcn>94</lcn>
+    <icon src="https://imageresizer.static9.net.au/eeHbR53TZ7qVQHBqns859ySz0nM=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F14%2F9Life_Colour_RGB.png"/>
+  </channel>
+  <channel id="mjh-rush-nsw">
+    <display-name>9Rush</display-name>
+    <lcn>96</lcn>
+    <icon src="https://imageresizer.static9.net.au/uFJ9ulq8ZfWgBguBhcaZtXPJ9Bc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png"/>
+  </channel>
+  <channel id="mjh-abc-nsw">
+    <display-name>ABC TV</display-name>
+    <lcn>2</lcn>
+    <icon src="https://i.mjh.nz/.images/abc-nsw.png"/>
+  </channel>
+  <channel id="mjh-10-nsw">
+    <display-name>10</display-name>
+    <lcn>10</lcn>
+    <icon src="https://i.mjh.nz/.images/10-nsw.png"/>
+  </channel>
+  <channel id="mjh-10bold-nsw">
+    <display-name>10 BOLD</display-name>
+    <lcn>12</lcn>
+    <icon src="https://i.mjh.nz/.images/10bold-nsw.png"/>
+  </channel>
+  <channel id="mjh-10peach-nsw">
+    <display-name>10 Peach</display-name>
+    <lcn>11</lcn>
+    <icon src="https://i.mjh.nz/.images/10peach-nsw.png"/>
+  </channel>
+  <channel id="mjh-10shake-nsw">
+    <display-name>Nickelodeon</display-name>
+    <lcn>13</lcn>
+    <icon src="https://i.mjh.nz/.images/10-nickelodeon.png"/>
+  </channel>
+  <channel id="mjh-snowy-mountains">
+    <display-name>Snowy Mountains Television</display-name>
+    <icon src="https://i.mjh.nz/.images/snowy-mountains.png"/>
+  </channel>
+  <channel id="mjh-seven-mel">
+    <display-name>Seven</display-name>
+    <lcn>7</lcn>
+    <icon src="https://i.mjh.nz/.images/seven-mel.png"/>
+  </channel>
+  <channel id="mjh-7two-mel">
+    <display-name>7two</display-name>
+    <lcn>72</lcn>
+    <icon src="https://i.mjh.nz/.images/7two-mel.png"/>
+  </channel>
+  <channel id="mjh-7mate-mel">
+    <display-name>7mate</display-name>
+    <lcn>74</lcn>
+    <icon src="https://i.mjh.nz/.images/7mate-mel.png"/>
+  </channel>
+  <channel id="mjh-7flix-mel">
+    <display-name>7flix</display-name>
+    <lcn>76</lcn>
+    <icon src="https://i.mjh.nz/.images/7flix-mel.png"/>
+  </channel>
+</tv>
