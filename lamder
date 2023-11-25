@@ -23,34 +23,3 @@
     <icon src="file://C:\Perl\site/share/xmltv/icons/KTVT.gif" />
   </channel>
   <programme start="20080715003000 -0600" stop="20080715010000 -0600" channel="I10436.labs.zap2it.com">
-    <title lang="en">NOW on PBS</title>
-    <desc lang="en">Jordan's Queen Rania has made job creation a priority to help curb the staggering unemployment rates among youths in the Middle East.</desc>
-    <date>20080711</date>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Series</category>
-    <episode-num system="dd_progid">EP01006886.0028</episode-num>
-    <episode-num system="onscreen">427</episode-num>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown start="20080711000000" />
-    <subtitles type="teletext" />
-  </programme>
-  <programme start="20080715010000 -0600" stop="20080715023000 -0600" channel="I10436.labs.zap2it.com">
-    <title lang="en">Mystery!</title>
-    <sub-title lang="en">Foyle's War, Series IV: Bleak Midwinter</sub-title>
-    <desc lang="en">Foyle investigates an explosion at a munitions factory, which he comes to believe may have been premeditated.</desc>
-    <date>20070701</date>
-    <category lang="en">Anthology</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Series</category>
-    <episode-num system="dd_progid">EP00003026.0665</episode-num>
-    <episode-num system="onscreen">2705</episode-num>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown start="20070701000000" />
-    <subtitles type="teletext" />
-  </programme>
