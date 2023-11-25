@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-name="matthuisman.nz,xmltv.net,nzxmltv.com">
+  <channel id="mjh-discovery-fast4">
+    <display-name>Warner Bros TV True Crime</display-name>
+    <icon src="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521491288/20231121T121011_truecrimelogo.png"/>
+  </channel>
+  <channel id="mjh-discovery-fast5">
+    <display-name>Warner Bros TV Paranormal</display-name>
+    <icon src="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521701602/20231121T120842_paranormallogo.png"/>
+  </channel>
+  <channel id="mjh-discovery-fast3">
+    <display-name>Warner Bros TV Reality</display-name>
+    <icon src="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521401696/20231121T120519_realitylogo.png"/>
+  </channel>
+  <channel id="mjh-discovery-fast6">
+    <display-name>Warner Bros TV House Hunters</display-name>
+    <icon src="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521489922/20231121T120747_househunterslogo.png"/>
+  </channel>
+  <channel id="mjh-discovery-fast9">
+    <display-name>Warner Bros TV 90 Day Fiance</display-name>
+    <icon src="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521418830/20231121T120436_90dayfiancelogo.png"/>
+  </channel>
+  <channel id="mjh-tvnz-1">
+    <display-name>TVNZ 1</display-name>
+    <lcn>1</lcn>
+    <icon src="https://i.mjh.nz/.images/tvnz-1.png"/>
+  </channel>
