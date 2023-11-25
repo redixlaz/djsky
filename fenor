@@ -1,9 +1,0 @@
-<tv generator-info-name="Vind 2.52.12" generator-info-url="https://xmltv.se">
-<channel id="3plus.tv">
-<display-name lang="en">3+ (CH)</display-name>
-<base-url>http://xmltv.xmltv.se/</base-url>
-</channel>
-<channel id="4plus.tv">
-<display-name lang="en">4+ (CH)</display-name>
-<base-url>http://xmltv.xmltv.se/</base-url>
-</channel>
