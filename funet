@@ -1,0 +1,3401 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="dark" />
+    <title>Rokkr by tarumar</title>
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.esm.js"></script>
+    <script nomodule src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ionic/core/css/ionic.bundle.css" />
+    <style>
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500&display=swap');
+     
+    :root {
+--ion-text-color:  #fff;
+--ion-font-family: "Jost";
+ --ion-background-color: #171717; 
+    }
+*{
+    user-select: none!important;
+}
+ 
+
+    ion-title {
+        font-size: 24px;
+        font-weight:800;
+    }
+ion-item {
+        --background: linear-gradient( 89.7deg,  rgba(0,0,0,1) -10.7%, rgba(53,92,125,1) 88.8% );
+        margin-bottom: 1vh;
+        border-radius: 5px;
+        transition: 1000ms linear,
+
+    }
+ion-item:hover {
+        --background: linear-gradient( 270deg,  rgba(0,0,0,1) -10.7%, rgba(53,92,125,1) 88.8% );
+        margin-bottom: 1vh;
+        border-radius: 5px;
+    }
+
+
+    h2{
+        font-style:italic;
+    }
+
+    h3{
+        color: #ccc;
+    }
+    
+ion-searchbar {
+      --color: white; /* Arama çubuğu yazı rengini beyaz olarak ayarlar */
+    }
+
+
+
+
+    </style>
+  </head>
+  <body>
+  <ion-app>
+    <ion-header translucent>
+      <ion-toolbar>
+        <ion-title>Rokkr / Kanallar</ion-title>
+        <ion-searchbar placeholder="Kanal ara" color="transparent"></ion-searchbar>
+      </ion-toolbar>
+    </ion-header>
+
+    <ion-content fullscreen>
+      <ion-list id="channel-list">
+      
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MzQ2NTQ2NjlmZDdiMmY0ZjQ2YmI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 3 UHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzgyMjc3MDUwMWMwMzc3ODdmNjBjMQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 1 (720P) |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNTAzNzY3MjQyYjkzOTg5OTIwODk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 5 FHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MDMzNzE4MDBjYzZiODcwYzA2NDU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 1 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NDEyNjQ3NDE1OTM3NWQxMjdhNjA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 3 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0ODM0ODY3NzlkYWY0ZDJmZjEwYQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 4K FEED (4096X2160) |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMzk3MDcxMzMwNDIwMzA5MGM1ZWI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 1 50 FPS |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4NTY0NjM2NDdkZmM3ZjU5MGZhZDg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FIX CINEMA BILM KURGU |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1ODY5OTM5OThhODRjNTc4OTY5MWU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 3 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NzM4ODQwOTk2MWU3NDI1ZmVkZmU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS FEED (OZEL TEST YAYIN) |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MjExNzgwMTU4NmJkNDNhOTJkN2Y='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FILMBOX AKSIYON |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY2MjA3NDA1OWFmYjlmNGU2MDI3Nw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>GLOBAL BOX KEMAL SUNAL |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxNTU0Nzg5MjIxODRjMWYzMTE3YWE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>S SPORT |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMzQ5NTg2NzkzY2FhODFhZjYwZjQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 1 (720PFEED) |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NzYxOTkxNTg0OTI1ZTI1M2Y3NWE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FIX CINEMA MACERA |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NzM5Mzk0NDBhZjEzZTdmYzIwZjY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 1 + |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MTAwOTc1MTUzYmE1MzI5MjIwMjE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A SPOR |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk4MDQyNDYwMDQxODk1MDY1YjExYg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 1 HD (TURKEY) |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2ODg5NjgzNTBjYjYwOTM0YjU1YQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 8K |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5ODc3NjUzNzUzZGE1Njk5YmMxNWM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FIX CINEMA YERLI |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk2ODQzMDU2ODY4N2IyZmEwYjIyMg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BBC EARTH HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2MjE1NDEwOTVjOWM0NmFiOGM4ODA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN MOVIES ACTION |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNTQ3NTYxMjg1ZDEyZDFlNDY1MjI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN MOVIES STARS |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMzA2NTQ2MTBhNzkyOTY1MWQ5MGU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN MOVIES STARS |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NzM5Njk5NjYxMGU3ZGZmYWMzZmU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 1 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNzMxOTc5NDNjNmMzZmIzNjAwYzQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 3 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxODMxNDM3NWEyZTVkMjYzZjc1Ng=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 4K (3084X2160) |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NDg2NjA2NDc5M2ExZjY1OWQ1NWE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FILMBOX YESILCAM |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExOTk1NTM4NjBjZmEyODJkOWZjNjI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FIX CINEMA FANTASTIC |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5ODM3OTk2NzY4NzdjNzM4ZDVhNmY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FIX CINEMA YESILCAM |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNTk1Mjk3Njk0MjJjMWVjN2RjZTE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>SHOW TV FHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1NzM1NDI5NDcxMmE5ZmQ4NWU1Mjc='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN CNNECT 3 MACZAMANI |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0MjY4Njc5ZGIyOGVmM2EzNDRk'">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN IZ TV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1NjcyMzc5NTQ4Y2I0ZDEzZGFmMzE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN MOVIES ACTION |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyODUyMjg5NjhjNWEzOTJjNTRmNzE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN MOVIES ACTION 2 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MzI5MzA5NDZiMWZmZTdiN2VhOWY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN MOVIES PREMIERE |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExNzAwNzA0Nzk0MjI0YmQ5NzgwZA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN MOVIES PREMIERE 2 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMTgwMjkzMzVjNTRkNTA4ODI1Yzk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 1 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2MzAyMzA5OWJiMjQxOGU1NzhjNA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 2 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5NTQ0MTAwNDUzMjVjNThkYzMxYTA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 3 SD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzczNjg3NDk4MWJhNDQwOGRmMjg2YQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS MAX 1 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5NTUxNTY3NTc2YmU1YzE5ZTAyYTI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEYAZ TV HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NTM2OTAxMDNmZjhiNmZkYTIzOTI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CNN T RK HD+ SD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMDc2OTkzODJhZDZlMjkyOTU3NzM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>DIZI SMART PREMIUM |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyMDYxNjM3MzM4N2VlMDY5YmU0M2Q='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>DMAX |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYwNzAzMDQwOTZjODhlOWZmODAwNQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>DMAX HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MzY5MDE0MTVmYjFhYjA0OGRkNzU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ENO VIZYON 1 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxOTEwMTY4N2RkMzMwY2U2NGE3ZQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ENO VIZYON 2 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MTA5NTgzMDcyMTAyMzI2ZDQ5NjA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ENO WESTERN |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNDg2ODE1MTEwOTFlOWYxODFmOWE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>EXXEN SPOR 1 SD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMzU0MDQ1NjUxZDI2NjM3NTIxZWY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FILMBOX COMEDY |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ2MDAxODc3M2I2NDAxMjE2M2Y4YQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FILMBOX KADIR INANIR |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY2MzcyMDQ5Mjc3MmRmZjYyN2U0ZA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FIX CINEMA ACTION |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0MTk2ODQ4MzE3MWQyOGY0MGU0Mzc='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FIX CINEMA NETFLIX |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkxMDA3NjY3MGJiYzQ5Y2ZhYTE2ZA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>GLOBAL BOX YERLI |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNTk4OTQ3MmMzYTIwNzg4YjFhYw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>HORROR 1 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMDg3MjgxOTc0NDkwYTQ5ZDRiZDU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>S-SPORT 1 UHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NzYzMzk2MzBkMDk5MzRjNmJiNzg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TIVIBU SPOR 1 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNTI5MjEzMzY5NjE4ZmNiM2Q4Zg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TRT SPOR FHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY4OTk2MDI0NWVhYzkxNjYyZDEx'">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TV 8 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkxODEwMTc1OTQzNTljYzRlMjZhMQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A HABER |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NTczMjE2NjNkOGNiOTYyNGU3NzM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A SPOR FHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMTc0ODk4ODNlMGQyZDUzNGRkNWE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A SPOR HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NTYzODA4NDI3NDZjM2ExOTFiMGQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ANADOLU DERNEK |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1MDg1MDk0MDQxMzQ4Y2E2YWNjZmM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ANADOLU DERNEK TV |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMDA0Njc4MjAxNzI5MGY3ZDMyNTY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ANADOLU DERNEK TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzODIzNTU1NzZiZmEzOTAxYmVlN2M='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ATV HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwODUyOTk5MzBmNGIxMWE2NGNmMTA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN BOX OFFICE 1 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMTgxMzc3ODRiNGY2ZWNlZjMxMGQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN BOX OFFICE 2 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwNzUxOTg5ODRkOTM0OWUyOTVjNWE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN BOX OFFICE 3 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMDA3NzU4OTVkNWM4ZjJjMjQwZTE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN BOX OFFICE TURK |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUxNTk5ODM5MGNiYjczMTk0NjljNA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN GURME HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MDM0MDk0NDRhNmJjMjFlZmFjMWQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN MOVIES FAMILY |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwMzE4OTU5MDY5MzdlYjg3YzVhYTc='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN MOVIES PREMIERE 2 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNTI5NTI0NTRhYzYyNjE0NjZjYWE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN MOVIES TURK |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwNjI4MDE5OTkwZjVhNDViNmEzYjQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SERIES COMEDY |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1MjY1NDYwNTk5YTFjMTM5OGI4YzA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SERIES DRAMA |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MTQ0MTcyMThmMmY2OTA5OTk0NDQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SERIES SCI-FI |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MjIyNDA4MDk0NWYwMDk3ZTFhM2I='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SERIES VICE |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2ODQwNjE3MTI4NzNhNDMwMGQxZTQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 1 H265 |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MDcxODg3MzQzNjRiMjRkOWU2OGQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 2 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwOTIyNzk2OTQ2NTVmZmNiYTZiNDc='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 2 UHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4OTk2MTU1OTE2NDE3ZDJmOTc5MWU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 4 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY3MjMxNTc0MjVjZjFjOTE1MWJjOQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 4 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1OTgyOTc0MmRjYTY3MWQwMjRhYg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 5 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MDg1NDIxNjA0ZGYwOTE2OWVhNTA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 720P FEED |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3MTU3OTAxNWEwZjFjMmI3NDYxZQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS MAX 2 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3OTI1OTEwMzU0ZTYwMzFjNGFhY2U='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEYAZ TV FHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwODcyNDk0MTk4YzJhODZmNzI0MDM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEYAZ TV HEVC |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3MzM5MDY4Njk4YTVhY2NhNWUwZTY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BILGILENDIRME |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk1MDM4MTg5NDE2YjNjNTFhYmZiMQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CNN TURK |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MDA4NDU0NzI1NDc4ODY4NTQ5YmY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CNN TURK |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc3OTgxNTc3NTc3MTVmNTYxOWM1NQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CNN TURK HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3ODg3MTk2OTdiMjBiMGJiNWQ5NmE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ENO VIZYON 14 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MDYyNTc2MzM4NzI0YzdmYThlMzg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ENO VIZYON 15 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5ODI0MzY1NWRhZWRmMjRlNTg4Mg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ENO VIZYON 3 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NjY2NjkwMzExZWZkMzRjMjYwYmU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ENO VIZYON 5 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NDczNjI4NzEyMzM2NWE1NmVlNGI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ENO VIZYON 6 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3OTU1ODc0NjNkZmQ5MDgxZGUzY2U='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ENO VIZYON 7 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2MTc3MjUwMTRlNTJlNzI0MTdiYTI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ENO VIZYON 8 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1NjExMTI1NTAzNmE2MzI1NjU2ZjY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ENO VIZYON 9 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2Mzk0NTE0OTg5Mjc0NWY1Nzg4Y2M='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ERT SAH TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MzUyMjI0OTMzNTEyZDBlMmViYjA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>EUROSPORT 1 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk1OTI3MTQzOTUzMTFhZjA1MjQ3Yg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>EUROSPORT 2 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MjA2OTg2NTZmMzhkZThmNTFjMDg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>EXXEN SPORTS 2 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NzUxMjMzNDQ0MTkwZWZkMGY2OTU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>EXXEN SPORTS 3 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNDI4MzIxOTIyNTYzMmIzZTkzMw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>EXXEN TV SPOR 1 720P |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU1MTY5MzQ0MTQ1OThhMmJiMzEzNw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FB TV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQzNTU4OTc1NWY1ZjFlNzg0NDQ2NA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FIX CINEMA KORKU |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NDU1MTIxODZhYzdhOTkyMjBlMjY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>FOX TV FHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxODI2OTMwMjJkMGFjOTAyZTM2N2I='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>GLOBAL BOX ACTION |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NTc1NDIxM2UzZDhkMjZmZmRmMw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>GLOBAL BOX DRAM |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMDIwNDk5NDJlM2U3YmI1Yjc3ZmY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>GLOBAL BOX FANTASTIC |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NDg1NDUwMThiYzRmM2UwYzA5ZWI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>GLOBAL BOX KORKU |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMjY2NjE5NTc1MjVmMjgzYzc1MDc='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>HABER GLOBAL HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NjU5OTQ1MjBlNTc4NWNlNjQzMWQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>HABER TURK HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2Mzg4NTM5OGU0MWNiOGRkODFhMw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>HABERTURK |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyOTkzNjA2NDMwN2RlODlkM2YyNzg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>HORROR 2 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExNjg2MDIzOTc4MTk3NmFjYTViMjc='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>HORROR 3 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMzE4NTQzNDA5NGU5NDA2MjhjZDI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>HORROR 4 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMzY5MzE1MzgyNmY4ZThiYjFkYmI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>KANAL D FHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMjEyMjQ2NjcyY2QzYzg0ZGIyMzg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>KANAL D HD (H265) |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NDg2MjA1ODRkNDU0YjMyNGIwMzM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>KANAL D HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2OTE1NzcxNTA0MWI3NmRjZmMwZDI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>LOVE NATURE HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMTg0MDc5MjI1OTAwMzIxZDVmMjM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>MAX VIZYON 1 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxNjg0NDg4MDI5ODBmMmJhZjE2YzE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>MAX VIZYON 2 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMDQ4NTY1MjQ1OTM3ZDcxMmNlZWQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>MOVIESMART CLASSIC |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5Nzg0MDc2MTJhMjI2ODQ1OTQ2YjY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>NATIONAL GEOGRAPHIC HD+ |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NzMxMjM0ODg2YTFhNWM0MTM3YzE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>S SPORT 2 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ2NDE1NDA2OWJmNWE0MzMyMGE3NA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>S-SPORT+1 MAC SAATI |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MTg2NDM2NDAxN2VhM2UwYTk3Yw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>S-SPORT+2 MAC SAATI |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg5Njc1NDUwOTdiZTQ2ZTUzN2U2Yg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>S-SPORTS 1 SD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNTM4ODAyMzgzM2YxNGU3ODE3MjE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>S-SPORTS 2 SD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MTYyNDE3OTBjNGNlNzQyOTgxNTg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>SHOW HD (H265) |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxNzg3OTU0MzYyZTdhNmJlNTZiNmY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>SPOR SMART FHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwMzk3MTcyOTlhOGU1NDgwZWIyZjE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>STAR TV HEVC |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMTkzOTc2MTA5YmQ4N2EwNWE1MTc='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TIVIBU SPOR |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzgxODY1MjgyMzQxOWRkNjRkM2MxYQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TIVIBU SPOR 1 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMDkwMzYzMGY5MWZlN2VhOGZmNw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TIVIBU SPOR 3 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NDQxMDYyOGNjZTNiNGVhMmE2OA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TIVIBUSPOR 1 FHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk4Nzc0ODk4NmI2YTA1NzQxZmNjZQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TJK TV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxNDQ0NDc2NDViMWQxMmI1NGNiNg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TLC |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU4NjU0MTk2MGY5MmVjYjA3YjY5Mw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TRT BELGESEL HD+ |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2OTI2MjM4MzNjMTM3MjdjYjdjNGU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TRT HABER |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNjIwMzE3MDJjYTc3ZTY5OThmNDA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TRT SPOR HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5ODk1NjkwODJiMzQwOGFjZDU5NDM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TUNCELI DERSIM 62 TV |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NTc5MjQ3MTgxY2M0YmIxYjgwYmI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TV 8 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MTc1MDI0MjdhNjAxMmRlZmZiMWQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TV8 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyODMwNzA1NDMyNGY0YTNjYTcwNw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>TV8 RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYwOTM3NjUwMWM3YzMxYjQ0ZjMyMw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>VIASAT HISTORY HD+ |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMjU5NTU0NzFlOGI3NzFmZTI4NTg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>YABAN TV HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMzEzODYxNzk5OWFlY2Q3NTQ1Nw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>24 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2MDY1NzA5MTM1YjVmN2E3Mzc1ZDQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>24 HABER HD+ SD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNjUyMzkxNjNhYTA1NWQzMzNlMDk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>24 KITCHEN |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NDEyNTMxMDUyYjJlYjFlZTMxMWQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>24 KITCHEN HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NjY5Nzg3NjBhY2ZjYjhhNjJlMDI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>24 RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5ODExNjQ1MzBhOTQ1NTRkODE3OTU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>360 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExMTQxODgzMDNhZmYyNWIyYTk1MWU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>360 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUwODI3MDAxMzViMjgzYmUwNjkxNQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>360 RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MjU5MjY4NzgxNjVjY2FkMmIyNTI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>90 PLUS |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwNDk5ODYxODNjZmRjNzY2MzUwMA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A HABER |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwODQ3NTM3ODg2MjFhNThlY2M2ZWQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A HABER HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1NzU1MzQzODdjNDU3NWYyZTI5ZTg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A HABER HEVC |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExNjU4NzM2MDg5ZTViYjE2N2IzNjk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A HABER RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MTU2NzU4Mzg4Mjk3OTI2NWE5NDA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A NEWS |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NzcxODYwNjg5NGU3ZDgxNzNiM2M='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A NEWS |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMzYwMTMxMzJmZWE3Yzk0ZDlhMmE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A NEWS HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NzIwNzUwNjhkZWEwOGU2NzY1MmI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A NEWS RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk4MzMyNTAwNzVlYzY0NWU4NDNkNA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A PARA |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzODAzMzQ1NzU3MTQ1ZGZlYzJiOTg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A PARA RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5ODc4NzkzNjE5YmJkMmVmZTE3MmM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A SPOR |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNzE1NDc4NDg1YmJjYWEzMGVjZGY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A SPOR HEVC |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMDUyNDY2NGI0ODI5NjZlMmJjMg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A SPOR RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4OTg1MjM3MjAzZWExYjhkYjgyMmU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A2 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MDQyNDU2NmY1Nzc1MjczYWM0NA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A2 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMTEyOTU0MWI1NjgzYWU3NWYzYg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A2 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkzODExNjc3OWIyMzRkMGYxNzk2ZQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A2 HEVC |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxNTA1NzQwNDExMGI5MWI3Y2FhNzg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A2 RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3MjA4Mzg4ODQxZDc4ZWYyNzFjMzg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>A2 TV SD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1NjQxMzY0ODgxODQyODdmOTU3Mzc='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ADIYAMAN MERCAN TV |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc4NTY2NjkxN2VjYWIzNzU3NWU0Yw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AFYON T RK TV |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxOTYxMDcwOGM0MDE1ZDU1NjA3YQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AFYON TURK |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2MTI1MDI1MzA0NmIwNDliNWUxM2M='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AFYON TURK |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0NzE5MDA0MWRiYzg4NjdhODFhMA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AGRO TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYzODkyODYxNjE5ODQ2NGQ2MmJhZQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AKILLI TAVSAN MOMO |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzNjUzNDI2OTgyMjE3YWZiZTBiMTM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AKILLI TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NTk4NTAyMDFiNDFkMTA0MzEwYmQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AKIT TV |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ5ODk4Mjk4MmZmMjZlOWM5NGFkNg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AKIT TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg1ODIwODA5OTBkZTZiNzIyNDgwOA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AKIT TV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNTU3MDYyNjllYjM4ZjliOTM3Nw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AKLILI TV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMjU4Nzc0ODQ4YzlmOGVhODgyMmM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AKSARAY KANAL 68 |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5MDg2NDI4NzE2ZjViMDc2NDhlN2E='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AKSU TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxODc4MzMyMTc5YjIyMGE3YTQyNmE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AKSU TV K MARAS |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NzUzNzU3OTM1OGExODdhNDBjZDQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AKTIF TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1Nzg1OTkzNjhlZjI3ZjgyNjUwZGI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ALEM FM RADYOLAND |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NTA0NzYzMDhmNWM1Mjc2NTgwZGI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ALEM RADYO |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMjQwOTE4OTZhNzUzYmViYzU1Ng=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ALTAS TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNDE0NTI2OGRlOTIxN2UyYWExNQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ALTAS TV ORDU |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NjY0NzI1NjhkM2EwOTRhMDU3NzM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ANAKKALE BOĞAZ TV |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0ODMwNjA3ODIxOTcwODFhM2NjODA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ANAKKALE TON TV |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMjU5MDE2OTBlZDhiODllNmY4MTE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ANIMAL PLANET |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0Mjc0MDQzMDc3NmY3MjM0ZGFlYjk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ANIMAL PLANET HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg0MDAzOTIzM2YyNjMxNDNkOWY3Mw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ANIMATION 1 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNjE3OTA4MGJhYmZkN2I1M2FjZg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ANIMAUX |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNTE0NDg3MjdkNzkwOGQ3NDU3YzA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ANIMAUX |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNzM0MDA1NjRmZDIxNDg5YzIyNTY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ANKARA T RKIYEM TV |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5NDkwMzkxOTdhYjY1YzAzNjdlMzg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ANLIURFA KANAL URFA |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwOTc2NTYyMzZiMTg1MGM5MGJiMDk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ANTALYA KANAL V |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNjgwNDA2MjczZGI3MjFiM2NkMjE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>APARA HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MTYzMTU5MjliYWNlNzkyZDljNDc='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ARABESK |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwODQwMzE0MTZiYTM5MzMxZTUwZDI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ARTI TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzODcwNzY3NjU3NzQzMjQ5ZTUyODc='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ARTI TV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMDMyMzc4ODU5ZjAyODNjZDQ2OGQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AS TV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMjQ0OTY5NTMzYTAxZjEwZDVmMzI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AS TV BURSA |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1ODg1Nzc4Njg1OTQxY2RlZjcwNWY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ATV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3OTIwNjc1MDVkMTY5MzBjMmJhMDQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ATV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNzk2NTc4MzhlOGRmMzgxOTgzZTk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ATV ALANYA |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMDk5ODU5NzMzNmZlNWVhZDNlMTM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ATV AVRUPA |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MDkwNDkwNzhkODMxYWM2NzM2YTg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ATV EUROPA |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1MTc5OTQ2Njc4OGE2NGE4ZWFmM2E='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ATV FHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU2Nzk0MTU1NmI3NWFkNWI0ODMzZQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ATV HD (H265) |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NDI4NzQ5NzczMmZlNjcyOTIzYmY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ATV HEVC |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwNTczMTczODgwYzA0ZjFhNjE4MTA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ATV PARA |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExMTQ1MjY0NDQxZjMxZGNhZDk5YzY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ATV RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2OTM0ODU2MDA4ZTI3ZTU4Zjk1ZmM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>ATV SD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNDkxMDQwNTAxYzAyNDg2OTE0ZDc='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AUTOMOTO (FR) |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY5MDU1NTUyNjM1ZmRlYWYwM2JiOA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AV TV |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNjE2MjAxMjEwMWQxNjIxNjg5ZmI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>AV TV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUyMDk2NzU0NTQxMGViYzdjNjBlZA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BABA RADYO ARABESK |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMTgyNDUyNTAyYTQyZWYzY2RmNDg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BABY TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NjM0NzU2MjM4NjUyOGU2ZWZjODI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BABY TV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNTA2MTE0MjRiZWVjM2FkY2Q0Yw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BABY TV HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MjI4NDg4MTA5OGQ3OTQzOTg1YTc='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BARBIE ANIMATION 2 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc0OTA4MjU3NmI0OGJjYWI3MjczZQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BBC CBEEBIES TV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNTg0NDIyMjIxYjBmMmZjYjM3ZWU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BBC EARTH |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2MTQ4NjI5NDk1N2RiOTE3MTI5MmQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN 1 SD (360P) |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5NjQ2MTcyNjdhNzAyMDc4YTMyMA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN 1 SD (480P) |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NDg0NzI0MjQyN2EwNGI1ZTAwZjk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN BOX OFFICE 1 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMzEwODkxNjIyMmY3ZTQxYzJmMWQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN BOX OFFICE 2 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwODgzMjE0NTgyYzA0ZjVmZThmZDQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN CNNECT 1 MACZAMANI |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4Mjg5ODk4OTkwYjU5NjBiYjJjMzM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN CNNECT 2 MACZAMANI |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4OTYxODY2MDRiNWU2NDBlMjA3Njk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN GURME |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NjE1NDA1MzhjNzYzMmM1OWMxMTE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN GURME |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3OTk2OTk4NDE0YzFjOWMyYjVmNTA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN MOVIES FAMILY |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNDkyODk2NjMyYzA0Y2RhMGExN2U='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SERIES 3 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3OTY2NTQ3NjdiMWFlMzM0OTYyZDk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SERIES 4 |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MjQ2NDI4NzM0MDhkYjkyZWM3MjY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SERIES DRAMA |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwOTIwODc0NTk2MjQ1ZGU0NzllNDI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 2 SD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1NTMzNzkxOTZjZDJhZGJlOGM1MjY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 4 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxNjMyOTQ3MjQ3YmVlZGJiYzBiNGM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 4 UHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUyNjc5NTc0NmQ4MmVjNTBhZDk5Mg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS 5 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYxMTk1OTkwMjFiZGU5Y2I1MTliYg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS HABER |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk0Mjc5OTE4MTEyMzM0ZmU1MTk2Yw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS HABER HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzODQ0MzY2NDRkYmNiNjE2YzFkYg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS HABER RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMjUzNjYyMzgyMzIyNzQ3ZTlhZmI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS MAX 1 FHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2MzMyNDk0ODc1OTU4NWNmOTVhYjk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS MAX 1 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MTY4OTgzNTcwMmI5NzY5MTc5NDM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS MAX 2 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNzM2MDMzNTU4YjQ0MGNiYmMwYjI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS MAX 2 FHD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0NDI5NzA0MTI0ZDUzNjQ3NjdkYWU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS MAX 2 HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNTYxMzM4MTdmYTE3Y2FmOGViNzM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPORTS MOBIL |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5ODA1NjUxNTJmNDAwNjJmZTk0Yg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEIN SPOTS1 SD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0ODQwMjcyNDA4NGIzZWMzY2YzNDM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BENGU TURK |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMDI4OTI5ODYzN2JkYjkxOTM1Yg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BENGUTURK |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExNDQ4MjUxMDY3OTdkN2IxZWFmYQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BERAT TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MDIwODE2MDE0NmI5ZmEwYzk3MWY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEST FM T RK E POP |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxNzYzMDQzNzlkZGI5NjEwY2U3ZmE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEYAZ HD+ SD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwOTE5MzE1MDFlOWNiNzllNTFmNGY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEYAZ TV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MDk0ODA3MDBmNzk0YzJlZWZmNWQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BEYAZ TV RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNzMxMTA3MTczM2IxOTRhOWI3MTk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BLOOMBERG |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNTE1NzMwMDIyMDc5MmQ2YTBjMTA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BLOOMBERG HT |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwMjEzODE4NDZkNWU2MzIyYWM0MWU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BLOOMBERG HT HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ2ODkxNTc2MzQ4YWJhYTFmN2NjZQ=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BLOOMBERG HT HD+ SD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxMTM4NjIwNzg3OTA3MWJiMTM1Yg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BLOOMBERGHT HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4ODQzOTEzNjUwYmE2ZTU1MDU5ZDY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BLOOMBERGHT RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMDg1ODI3MzdkYTM4MjRlMjU3ZTA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BONUS MASAL DIYARI |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc3NzE3MzE1MGFmMGFjZDUzNGY5Mg=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BOOMERANG |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxNDIzMjg3NTJmNTMyNjVjNGJlOTc='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BOOMERANG |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxODU0NDUwMDNiNGEwMWE2OTQ2YTk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BOOMERANG HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNzE3NTE2MDg5MzNiOGM4NWNmNTI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BOSS MOVIES 1 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg1NzYyNTgwMzk0ZTU1ZWQ0MzQwOA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BOSS MOVIES 10 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3MjEyNzQ5MDA4MWEzOGJkM2I1MDk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BRT 1 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNjkwNjI3NDNiZjUyMDQzNjAzN2Q='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BRT 1 RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4NTE2MjYxODA1YWI1Mjk3MWYwNzE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BRT 2 |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMTY2Mzg2MTA3ZDcxNGM1MDI5YzM='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BRT 2 RAW |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMDI4ODcyNzViMWU0ZDY4ZTFmYzk='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BRT 3 |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUwODEyMDEyNTljNjA4NTQ0NDQyZA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>BURSA TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NjgyNTI2MTdlNmYzYzU4NjNiMDU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CAILLOU |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2OTkzNDUwMjI2NTA2MzQ2NGZkOTQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CAILLOU TV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5MzEyNjY1MzU1YjUwMDIyMTEyMTA='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CAN TV |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5Nzc1MTM0NjQ1NjI3OGUwYWUxMDE='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CAN TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg5MDgxODY0MmMyZjNmZmJkM2ExNA=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CAN TV |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MTU0ODY4MDc4ZWE4OTA4Y2Q3YmQ='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CAN TV HD SD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2MzEzODc0MzUwYmQwZGQxNGU1MTU='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CARTOON NETWORK |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg2MTIyNDE3M2M5OGViNTRiNTNmMw=='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CARTOON NETWORK |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NzUxOTE2MjA0YWMxMDQxMGQ5NDg='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CARTOON NETWORK HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYwODM3MzIyZjYyNmY3Y2ZmZTAw'">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CAY TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU3NTYwMjEzMWU2NTNhZDY1ZTkz'">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CAY TV RIZE |H</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyODYwMzUxNzlmOGZhMWJhZDU1ZWY='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CBEEBIES |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMzUzODMwNDFiMTdhZjIyNGJlY2Q='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CBEEBIES HD |D</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+            <div class="back">
+          <ion-item onclick="location.href='https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxOTAzMTQxNDNlYWZiNjJlOTJjNWI='">
+            <ion-avatar slot="start">
+              <img src="https://corsproxy.io/?https://apkresult.com/Logos/rokkr-premium-apkresult.jpg" />
+            </ion-avatar>
+            <ion-label>
+              <h2>CEKMEKOY TV |E</h2>
+              <h3>Turkey</h3>
+            </ion-label>
+          </ion-item>
+</div>
+      
+        
+        <!-- Diğer kanallar burada yer alacak -->
+
+      </ion-list>
+    </ion-content>
+  </ion-app>
+
+  <script>
+    const searchbar = document.querySelector('ion-searchbar');
+    const channelList = document.getElementById('channel-list');
+
+    searchbar.addEventListener('ionInput', handleSearch);
+
+    function handleSearch(event) {
+      const searchText = event.target.value.toLowerCase();
+      const items = channelList.querySelectorAll('.back');
+      
+      items.forEach(item => {
+        const title = item.querySelector('h2').textContent.toLowerCase();
+        if (title.includes(searchText)) {
+          item.style.display = 'block';
+        } else {
+          item.style.display = 'none';
+        }
+      });
+    }
+  </script>
+</body>
+</html>
